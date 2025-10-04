@@ -25,8 +25,8 @@ jobs:
           aws_access_key: ${{ secrets.AWS_ACCEESS_KEY }}
           aws_secret_key: ${{ secrets.AWS_SECRET_KEY }}
        
-          application_name: "gamil"
-          environment_name: "Gamil-env"
+          application_name: "test"
+          environment_name: "Test-env"
           region: "us-east-1"
           version_label: ${{ github.sha }}
           deployment_package: deploy.zip

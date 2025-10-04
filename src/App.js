@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          we are now using the Automation CI/CD
+          We are now Gamdeeen Gedn
         </a>
       </header>
     </div>

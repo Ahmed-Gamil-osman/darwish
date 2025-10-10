@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          We are now Gamdeeen Gedn
+          We are now learning DevOps
         </a>
       </header>
     </div>
